@@ -1,6 +1,6 @@
 var options = {
     startHour: 9,
-    endHour: 24,
+    endHour: 17,
 }
 
 function updateTimeslots() {
