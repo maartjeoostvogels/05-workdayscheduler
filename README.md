@@ -24,4 +24,4 @@ WHEN I refresh the page
 THEN the saved events persist  
 
 ## Screenshot  
-![Screenshot of Work Day Scheduler Website](./assets/images/screenshot.png)  
+![Screenshot of Work Day Scheduler Website](./docs/screenshot.png)  
